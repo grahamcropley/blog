@@ -1,2 +1,2 @@
-# blog
-A bit of this and that and everything inbetween
+# Welcome
+This site has a little bit of this and that and everything else inbetween
