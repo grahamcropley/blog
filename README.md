@@ -4,6 +4,6 @@ This site has a little bit of this and that and everything else inbetween
 **bold** and *italic* text here. ==this is very important==
 ### Finally {#finally}
 😂
-{% highlight powershell linenos %}
+```
 Get-CsOnlineUser -Identity username@domain.com
-{% endhighlight %}
+```
